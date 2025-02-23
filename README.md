@@ -1,6 +1,6 @@
 # Library_system
 
-A modern Library Management System for Kabarak University.
+A modern Library Management System for MASENO UNIVERSITY.
 
 ## Project Team
 - EPHRAIM NOEL (CIT/00156/022) - Lead Developer
