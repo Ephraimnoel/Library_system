@@ -1,6 +1,6 @@
 # Library Management System
 
-A web-based library system for Kabarak University.
+A web-based library system for MASENO UNIVERSITY.
 
 By:
 - EPHRAIM NOEL (CIT/00156/022)
