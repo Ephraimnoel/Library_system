@@ -1,24 +1,15 @@
-# Library_system
+# Library_system_web
 
-A modern Library Management System for MASENO UNIVERSITY.
+Basic web interface for MASENO UNIVERSITY Management System.
 
-## Project Team
-- EPHRAIM NOEL (CIT/00156/022) - Lead Developer
-- MALIT SOLOMON (CIT/00155/022) - Backend Developer
+## Developers
+- EPHRAIM NOEL (CIT/00156/022)
+- MALIT SOLOMON (CIT/00155/022)
 
 ## Features
-- User Authentication
-- Book Management
-- Reservation System
-- Fine Management
+- Homepage
+- About Page
 
-## Technologies
+## Tech Stack
 - Python/Flask
-- SQLAlchemy
-- Vercel Deployment
-
-## Project Structure
-[Project structure details as shown above]
-
-## License
-This project is licensed under the MIT License 
+- Vercel
