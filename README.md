@@ -1,15 +1,7 @@
-# Library_system_web
+# Library Management System
 
-Basic web interface for MASENO UNIVERSITY Management System.
+A web-based library system for Kabarak University.
 
-## Developers
+By:
 - EPHRAIM NOEL (CIT/00156/022)
 - MALIT SOLOMON (CIT/00155/022)
-
-## Features
-- Homepage
-- About Page
-
-## Tech Stack
-- Python/Flask
-- Vercel
